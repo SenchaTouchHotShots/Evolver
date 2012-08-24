@@ -10,6 +10,8 @@ Ext.define('Evolver.profile.Tablet', {
         return Ext.os.is.Tablet;
     },
     launch: function() {
+        // Destroy the #appLoadingIndicator element
+        Ext.fly('appLoadingIndicator').destroy();
         console.log('tablet');
         Ext.create('Evolver.view.tablet.Main', {fullscreen: true});
     }

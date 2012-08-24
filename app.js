@@ -24,14 +24,6 @@ Ext.application({
     phoneStartupScreen: 'resources/loading/Homescreen.jpg',
     tabletStartupScreen: 'resources/loading/Homescreen~ipad.jpg',
 
-    launch: function() {
-        // Destroy the #appLoadingIndicator element
-        Ext.fly('appLoadingIndicator').destroy();
-
-        // Initialize the main view
-        Ext.Viewport.add(Ext.create('Evolver.view.Main'));
-    },
-
     onUpdated: function() {
         Ext.Msg.confirm(
             "Application Update",

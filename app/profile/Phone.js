@@ -10,6 +10,8 @@ Ext.define('Evolver.profile.Phone', {
          return Ext.os.is.Phone;
     },
     launch: function() {
+        // Destroy the #appLoadingIndicator element
+        Ext.fly('appLoadingIndicator').destroy();
         console.log('phone');
        Ext.create('Evolver.view.phone.Main', {fullscreen: true});
     }
