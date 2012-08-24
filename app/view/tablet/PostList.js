@@ -17,8 +17,9 @@ Ext.define('Evolver.view.tablet.PostList', {
     extend: 'Ext.dataview.List',
     alias: 'widget.tabletpostlist',
     config: {
+        store: 'Evolver.store.postStore',
         itemTpl: [
-            '<div class="postItem">',
+            '<div class="postItem">#',
             '    <div class="postTitle">{title}</div>',
             '</div>'
         ]

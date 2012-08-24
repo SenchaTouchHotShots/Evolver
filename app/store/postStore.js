@@ -4,14 +4,17 @@ Ext.define('Evolver.store.postStore', {
     requires: [
         'Evolver.model.Post'
     ],
-
+    storeId: 'postStore',
+    autoLoad: true,
     config: {
         model: 'Evolver.model.Post',
         storeId: 'postStore',
         proxy: {
-            type: 'jsonp',
+            type: 'ajax',
+            url: 'posts.rss',
             reader: {
-                type: 'json'
+                type: 'xml',
+                record: 'item'
             }
         }
     }

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Twelve Foot Guru &#187; Blog</title>
+	<atom:link href="http://12ftguru.com/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>http://12ftguru.com</link>
+	<description>Programming and Web Application Development</description>
+	<lastBuildDate>Mon, 04 Jun 2012 17:50:42 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+		<item>
+		<title>Collaboration Is Your Friend</title>
+		<link>http://12ftguru.com/2011/08/collaboration-is-your-friend/</link>
+		<comments>http://12ftguru.com/2011/08/collaboration-is-your-friend/#comments</comments>
+		<pubDate>Wed, 17 Aug 2011 15:44:57 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=420</guid>
+		<description><![CDATA[One of the old saws in writing is to &#8220;write what you know.&#8221; As coders we often create projects in isolation, coding up our ideas and taking about 10 minutes to staple some sort of interface on top of it.  We don&#8217;t always write what we know. Bringing in some outside help and perspective can take ..... ]]></description>
+			<content:encoded><![CDATA[<p>One of the old saws in writing is to &#8220;write what you know.&#8221; As coders we often create projects in isolation, coding up our ideas and taking about 10 minutes to staple some sort of interface on top of it.  We don&#8217;t always write what we know.</p>
+<p>Bringing in some outside help and perspective can take an average project and make it something really interesting. This weeks bit of interesting is courtesy of <a title="Aaron Karp" href="http://karpar.com/" target="_blank">Aaron Karp</a>, Web Ninja and part time Thermo Nuclear Super Rock Star.</p>
+<p>Aaron dropped by the pink motel and pitched in on a mobile application project we have been working on. The application is strongly text based and my initial efforts at design where clashing horribly with Apple&#8217;s pretty glossy candy interface (see image 1).</p>
+<div id="attachment_421" class="wp-caption alignleft" style="width: 310px"><a href="http://12ftguru.com/wp-content/uploads/2011/08/myversion.png"><img class="size-medium wp-image-421" title="myversion" src="http://12ftguru.com/wp-content/uploads/2011/08/myversion-300x139.png" alt="" width="300" height="139" /></a><p class="wp-caption-text">image 1: My initial version. The text just kind of sits there doing nothing.</p></div>
+<p>As you can see, my version is kind of boring. Without any images the text just sits there and looks dull and uninviting. The list looks very much like every other list in an iPad or iPhone.</p>
+<p>This is where a good designer comes in. Aaron has a different perspective from me. He see&#8217;s fonts as a visual element rather than simply a text element. He also comes from a windows phone background which gives him a different sensibility when it comes to mobile applications. While Apple is pretty amazing when it comes to design and mobile products, I have to say that the <a title="Windows 7 Mango" href="http://www.pcworld.com/article/236642/first_windows_mango_phone_unveiled.html#tk.hp_pop" target="_blank">new Windows 7 Mango phone interface</a> is insanely pretty. It also has a strongly typography based aesthetic, which is what I was looking for on this project.</p>
+<div id="attachment_425" class="wp-caption alignright" style="width: 310px"><a href="http://12ftguru.com/wp-content/uploads/2011/08/blip-list1.png"><img class="size-medium wp-image-425" title="blip-list" src="http://12ftguru.com/wp-content/uploads/2011/08/blip-list1-300x300.png" alt="" width="300" height="300" /></a><p class="wp-caption-text">image 2: Aaron&#39;s first draft. We are still tweaking the designs and such but it&#39;s already so much better than what I had.</p></div>
+<p>Aaron delivered in a huge way (see image 2).</p>
+<p>His design is way more professional than anything I would have come up with. He also had some great feedback on the flow of the application. The text is artfully arranged and much more visually interesting. If we use a bit of transparency here and there, we can also do some really cool things with backgrounds. We are still hashing out some of the layout and functionality, but I really like where this is going.</p>
+<p>Stay tuned for updates where we will actually talk about what this app does.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2011/08/collaboration-is-your-friend/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Isn&#8217;t more always better?</title>
+		<link>http://12ftguru.com/2010/10/isnt-more-always-better/</link>
+		<comments>http://12ftguru.com/2010/10/isnt-more-always-better/#comments</comments>
+		<pubDate>Wed, 06 Oct 2010 18:51:15 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=319</guid>
+		<description><![CDATA[As programmers (and as clients) we have this notion that being able to customize and configure to suit personal preference is the key to eternal happiness. Everyone is looking for something just a little different, so the more we can tweak and modify, the better. We all want the site to look a certain way ..... ]]></description>
+			<content:encoded><![CDATA[<p>As programmers (and as clients) we have this notion that being able to customize and configure to suit personal preference is the key to eternal happiness. Everyone is looking for something just a little different, so the more we can tweak and modify, the better. We all want the site to look a certain way and behave a certain way, don&#8217;t we?</p>
+<p>It&#8217;s one of the main reasons we love using WordPress. With a nearly limitless ability to tweak, configure and augment, WordPress can be used in an amazing number of ways. Unfortunately for most WordPress <em>users</em>, WordPress <em>developers</em> tend to concentrate on the site design and leave the admin interface as-is. Most don&#8217;t even realize that, like the front end, the backend of WordPress can be customized as well.</p>
+<p>Before you roll a site out to a client, think about what they really need. Think about what they are going to want to do every day as opposed to the pieces they will never touch or only use once.</p>
+<p>A hundred options are really just ninety-nine places for the client to get lost while looking for the one thing they need to do.</p>
+<p style="text-align: left;">Think of it this way, which of these do you think your customer will be happier using:</p>
+<h1 style="text-align: center;"><a href="http://12ftguru.com/wp-content/uploads/2010/09/listOfDoom.png"><img class="alignleft size-full wp-image-321" title="listOfDoom" src="http://12ftguru.com/wp-content/uploads/2010/09/listOfDoom.png" alt="" width="156" height="1450" /></a> <strong>OR</strong> <a href="http://12ftguru.com/wp-content/uploads/2010/09/shortlist.png"><img class="alignright size-full wp-image-322" title="shortlist" src="http://12ftguru.com/wp-content/uploads/2010/09/shortlist.png" alt="" width="169" height="269" /></a></h1>
+]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/10/isnt-more-always-better/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Who Ya Gonna Call?</title>
+		<link>http://12ftguru.com/2010/06/who-ya-gonna-call/</link>
+		<comments>http://12ftguru.com/2010/06/who-ya-gonna-call/#comments</comments>
+		<pubDate>Fri, 18 Jun 2010 21:35:58 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=288</guid>
+		<description><![CDATA[This entry is part of a series: You Get What You Pay For&#187; When To Call The Developer For Help When most people build a website, they generally wait until something goes wrong before they call for help. This is especially true with WordPress. Given the ease of install and modification, non-technical users can make ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-2')" title="click to expand/collapse slider You Get What You Pay For">You Get What You Pay For&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-2"></span></small></div><h3><a href="http://12ftguru.com/wp-content/uploads/2010/06/RobotPhone.png"><img class="alignright size-full wp-image-290" title="RobotPhone" src="http://12ftguru.com/wp-content/uploads/2010/06/RobotPhone.png" alt="" width="166" height="228" /></a>When To Call The Developer For Help</h3>
+<p>When most people build a website, they generally wait until something goes wrong before they call for help. This is especially true with WordPress. Given the ease of install and modification, non-technical users can make lots of changes and tweaks without a dedicated developer. However, when things go wrong, the easy facade falls away and you are left staring at PHP, CSS and HTML code. At this point you might understandably be asking yourself, &#8220;Just what have I gotten myself into&#8230; Maybe I should call someone.&#8221;</p>
+<p>Unfortunately, once something has gone wrong, a developer has to unwind what the customer has done. This usually costs a lot of time and money, often as much as you would have been charged to have the developer build the site from the start.</p>
+<p>This is because the developer is coming in blind, with now way of knowing what the customer did and why. Retracing these steps with the client can often feel like an interrogation for someone who is already embarrassed at breaking this WordPress thing everyone said was easy. It&#8217;s a painful, uncomfortable and expensive process that nobody likes, but what is the alternative?</p>
+<p>You basically have three choices when you start a project:</p>
+<ol>
+<li>Do it all yourself.</li>
+<li>Hire the developer as a consultant.</li>
+<li>Hire the developer to do it all.</li>
+</ol>
+<p>If you have been reading this series since the beginning, you have a pretty good idea of the pitfalls involving in doing it all yourself. Any time you spend working on a website is time you are not spending on your business. Price out what your time is worth to you and make the call. If all you have is time and no money it could be the only way to go. Be aware of the issues and patient with your progress. This is tricky stuff and you will not get it all overnight.</p>
+<p>The second option is to use the developer as a consultant. You can do this by paying for an hour or two of a developers time to walk through your website needs with them. Build a plan together that you can accomplish and ask the necessary questions before you start your project. Plan for at least one more hour for later on when something goes boom. This will shorten some of the time you need to get rolling and give you a safety net when something goes wrong. There are, however, a few caveats to this route.</p>
+<ol>
+<li><strong>Don&#8217;t expect free advice.</strong> The developer has already priced out what their time is worth to them. If it&#8217;s not worth that to you, find another developer. Don&#8217;t take it personally and ask for recommendations. Developers will often have people they farm smaller jobs out to.</li>
+<li><strong>Take notes on what you are doing as you put the site together.</strong> This gives the developer a road map to follow if something goes boom. The will also help you ensure that you are following the correct directions you laid out with the developer in your first meeting.</li>
+<li><strong>This is still going to take a lot of time on your part</strong>. If you are not paying the developer to build the site, you cannot expect them to be &#8220;on call&#8221; for you. Most developers will answer reasonable questions via email, but when it starts to get out of hand don&#8217;t be surprised if the developer wishes to be compensated for the time.</li>
+</ol>
+<p>These 3 caveats will give you and the consulting developer a much smoother consulting relationship and help yield a successful project for both of you.</p>
+<p><a href="http://12ftguru.com/wp-content/uploads/2010/06/robotAward.png"><img class="alignright size-full wp-image-291" title="robotAward" src="http://12ftguru.com/wp-content/uploads/2010/06/robotAward.png" alt="" width="166" height="231" /></a>The final option is, of course, to pay the developer to build a website for you from the start. While this is the more expensive of your 3 options, you are paying for the experience level of the developer, the knowledge and skill they bring to the table. Developers enjoy this kind of thing and they can bring that joy to a website project. The developers goal is to build something they are proud of and that you want to show off to potential new customers. It&#8217;s how we stay in business and afford all of those video games that we love.</p>
+<p>This is the win &#8211; win situation for both of us. Trust me on this.</p>
+<div id="hackadelic-sliderNote-2" class="concealed">Entries in this series:<ol><li><a href="http://12ftguru.com/2010/05/free-software-and-you/">Free Software And You</a></li><li><a href="http://12ftguru.com/2010/06/out-of-the-box-and-beyond/">Out Of The Box And Beyond</a></li><li><a href="http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/">An Unexpected Error Has Occurred... What now?</a></li><li>Who Ya Gonna Call?</li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/06/who-ya-gonna-call/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>An Unexpected Error Has Occurred&#8230; What now?</title>
+		<link>http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/</link>
+		<comments>http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/#comments</comments>
+		<pubDate>Fri, 11 Jun 2010 12:21:10 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=264</guid>
+		<description><![CDATA[This entry is part of a series: You Get What You Pay For&#187; When Something Goes Boom It is a given fact that at some point in your website building process, something will go boom. This happens to novice users and seasoned web developers alike. You are doing something enormously complex, despite what you may ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-4')" title="click to expand/collapse slider You Get What You Pay For">You Get What You Pay For&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-4"></span></small></div><h3><a href="http://12ftguru.com/wp-content/uploads/2010/05/lightbulbRobotCracked.jpg"><img class="alignright size-medium wp-image-269" title="lightbulbRobotCracked" src="http://12ftguru.com/wp-content/uploads/2010/05/lightbulbRobotCracked-225x300.jpg" alt="" width="225" height="300" /></a>When Something Goes Boom</h3>
+<p>It is a given fact that at some point in your website building process, something will go boom. This happens to novice users and seasoned web developers alike. You are doing something enormously complex, despite what you may have heard from your local high school student.</p>
+<p>You are taking code designed by dozens of different people and mixing it together into a working website. The people who wrote this code have no idea how your server is set up, what your comfort with technology is, or which pieces of code you may have mixed together. They have done their best to allow for every possibility they could think of, but at some point&#8230; it. will. go. boom.</p>
+<p>So what do you do when you find yourself confronted with this:</p>
+<blockquote><p><strong>Internal Server Error</strong><br />
+<em>The server encountered an internal error or misconfiguration and was unable to complete your request.<br />
+Please contact the server administrator, webmaster@yourdomain.com and inform them of the time the error occurred, and anything you might have done that may have caused the error.<br />
+More information about this error may be available in the server error log.<br />
+Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request.</em></p></blockquote>
+<p>This helpful little notification is the equivalent of &#8220;Oh noes! Something bad has happened! Call for help!&#8221; It provides little information and even less guidance on fixing the issue. It is also worth noting that, if you have chosen to go it alone, the &#8220;server administrator&#8221;  the error message is asking you to contact is you. This is usually the point at which myself or another developer will receive a phone call for help (it is also typically the worst time to call the developer, which we will talk more about later).</p>
+<p>Most developers have had tremendous experience with stuff going boom. We experiment, tinker and fiddle the way most people breathe, and at one time or another, each and every one of us has brought a computer or server to a crashing halt, an inert mass requiring the complete re-installation of everything. We are also painfully aware that we can do it again at any time. However, beyond the initial swearing and fist shaking, we are different in the fact that this does not frighten or stop us.</p>
+<p>Developers plan for the fact that things will go wrong. We have entire systems set up for backing things up, testing and moving between versions. If something goes boom, we can pretty much hit rewind and go back to the version that was working before while we fix the current problem. We build things in such a way that boom only stops us for a few minutes, while for most people, one good boom can lead to weeks of down time while trying to figure out the problem and sometimes it will just stop you completely out of shear frustration.</p>
+<p>So how do you prevent this kind of frustration? Talk to a developer before the problem even starts. Next we will cover a few options for this in our series wrap up  which asks the question: <a href="http://12ftguru.com/2010/06/who-ya-gonna-call/">When To Call A Developer For Help.</a></p>
+<div id="hackadelic-sliderNote-4" class="concealed">Entries in this series:<ol><li><a href="http://12ftguru.com/2010/05/free-software-and-you/">Free Software And You</a></li><li><a href="http://12ftguru.com/2010/06/out-of-the-box-and-beyond/">Out Of The Box And Beyond</a></li><li>An Unexpected Error Has Occurred... What now?</li><li><a href="http://12ftguru.com/2010/06/who-ya-gonna-call/">Who Ya Gonna Call?</a></li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Out Of The Box And Beyond</title>
+		<link>http://12ftguru.com/2010/06/out-of-the-box-and-beyond/</link>
+		<comments>http://12ftguru.com/2010/06/out-of-the-box-and-beyond/#comments</comments>
+		<pubDate>Fri, 04 Jun 2010 09:38:08 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=249</guid>
+		<description><![CDATA[This entry is part of a series: You Get What You Pay For&#187; WordPress Modifications Out of the box, WordPress is very, very basic and very, very drab&#8230;. frumpy actually. However, the ever flexible WordPress also allows you to use themes, which change your site from frumpy to professional looking with relative ease. The key ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-6')" title="click to expand/collapse slider You Get What You Pay For">You Get What You Pay For&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-6"></span></small></div><h3>WordPress Modifications</h3>
+<div id="attachment_243" class="wp-caption alignright" style="width: 310px"><a href="http://12ftguru.com/wp-content/uploads/2010/05/Wordpress-default.png"><img class="size-medium wp-image-243" title="Wordpress default" src="http://12ftguru.com/wp-content/uploads/2010/05/Wordpress-default-300x276.png" alt="" width="300" height="276" /></a><p class="wp-caption-text">Say Hello To Frumpy...</p></div>
+<p>Out of the box, WordPress is very, very basic and very, very drab&#8230;. frumpy actually. However, the ever flexible WordPress also allows you to use themes, which change your site from frumpy to professional looking with relative ease. The key word here is &#8220;relative.&#8221;</p>
+<p>There are thousands of themes for WordPress, ranging from really bad to truly exceptional. Some themes are free and some cost money. WordPress keeps a list of 1,195 free themes linked from their website. Some of these are really good and some are not. You can, of course, look through these yourself and find which ones fit your needs, but a serious developer will be familiar not only with these themes, but with the hundreds of other sites which house prettier and more targeted themes. These themes will more easily address the goals of your particular site (shopping, news articles, customer relations, portfolios, etc.) Developers tend to maintain a list of useful goodies like this, so they can quickly pull it up it whenever a new kind of client appears.</p>
+<p>Again, we look at these kinds of sites on a daily basis because we think it&#8217;s fun. We are just wired that way.</p>
+<div id="attachment_254" class="wp-caption alignleft" style="width: 226px"><a href="http://12ftguru.com/wp-content/uploads/2010/05/themes-list.png"><img class="size-medium wp-image-254" title="themes list" src="http://12ftguru.com/wp-content/uploads/2010/05/themes-list-216x300.png" alt="" width="216" height="300" /></a><p class="wp-caption-text">The WordPress Theme List</p></div>
+<p>So the choice here is to look through several thousand themes yourself, or let us help you select from 5 to 10 good themes that meet your needs. We may even have a subscription to some of the pay sites, which means that we can get the theme for you as part of our existing subscription. This saves you money.</p>
+<p>Now let&#8217;s suppose you have picked out a really good theme. Themes usually include a fake logo and some clip art pictures, but you will need your own logo and the clip art pictures are almost never licensed with the them itself. We typically help you work with a designer to create a logo if you need it and help you gather and edit your own photos for the site. Even if you don&#8217;t need any help with logos and photos, it is very unlikely that the theme will do everything you want straight out of the box.</p>
+<p>This is where WordPress plugins come in to play. Plugins add features to your site, everything from shopping carts, event schedulers, contact managers, photo galleries, video players, statistics, social networking and just about anything else you might ever need. WordPress lists 9,652 so far with more arriving every day. These plugins are searchable and more often than not, free to download and use. Cool. More free stuff for you, right?</p>
+<div id="attachment_255" class="wp-caption alignright" style="width: 258px"><a href="http://12ftguru.com/wp-content/uploads/2010/05/plugins-list.png"><img class="size-medium wp-image-255" title="plugins list" src="http://12ftguru.com/wp-content/uploads/2010/05/plugins-list-248x300.png" alt="" width="248" height="300" /></a><p class="wp-caption-text">The WordPress Plugin List</p></div>
+<p>Well yes and no. While free is a wonderful thing, figuring out which of these 9,652 plugins will do what you need it to can be a very confusing process. Remember that most of these plugins are written by nerds. They are also documented by the same nerds. Nerds have a startling vocabulary of technical terms and jargon and most of them are surprisingly unafraid to use it.</p>
+<p>The second issue is that, as free software, most of these plugins are written as a labor of love. This means that they are not always updated on a regular basis. Can you risk running a plugin that has not been updated in the last 2 years? Additionally, the plugin was likely written to accomplish only what the author wanted to accomplish and in the way that makes the most sense to them. What do you do if the plugin only does 80% of what you need it to?</p>
+<p>A web developer can easily update and modify plugins to make sure they work with your current setup and do exactly what you need them to do. They can typically accomplish this quickly because they have either seen it before, or they know where to find the answer to the problem.</p>
+<p>Which brings us to the next consideration: <a href="http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/">What do you do when something goes boom?</a></p>
+<div id="hackadelic-sliderNote-6" class="concealed">Entries in this series:<ol><li><a href="http://12ftguru.com/2010/05/free-software-and-you/">Free Software And You</a></li><li>Out Of The Box And Beyond</li><li><a href="http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/">An Unexpected Error Has Occurred... What now?</a></li><li><a href="http://12ftguru.com/2010/06/who-ya-gonna-call/">Who Ya Gonna Call?</a></li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/06/out-of-the-box-and-beyond/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Free Software And You</title>
+		<link>http://12ftguru.com/2010/05/free-software-and-you/</link>
+		<comments>http://12ftguru.com/2010/05/free-software-and-you/#comments</comments>
+		<pubDate>Fri, 21 May 2010 12:37:22 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=242</guid>
+		<description><![CDATA[This entry is part of a series: You Get What You Pay For&#187; Freedom of The WordPress Currently, one of our favorite tools for creating new web sites is WordPress. What started as simple blogging software has become the weapon of choice for small and medium business sites (including the one you&#8217;re looking at right ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-8')" title="click to expand/collapse slider You Get What You Pay For">You Get What You Pay For&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-8"></span></small></div><h3>Freedom of The WordPress<a href="http://12ftguru.com/wp-content/uploads/2010/05/newWebsiteConstruction.jpg"><img class="size-medium wp-image-258  alignright" title="newWebsiteConstruction" src="http://12ftguru.com/wp-content/uploads/2010/05/newWebsiteConstruction-225x300.jpg" alt="" width="225" height="300" /></a></h3>
+<p>Currently, one of our favorite tools for creating new web sites is WordPress. What started as simple blogging software has become the weapon of choice for small and medium business sites (including the one you&#8217;re looking at right now).  It&#8217;s simple, elegant, extensible and best of all it&#8217;s free. The &#8220;free&#8221; part always leads us to interesting conversations with clients, which usually start with the question: &#8220;If it&#8217;s free, why am I paying you?&#8221;</p>
+<p>This is an entirely valid question, but it is also a frustrating one for developers who spend an enormous amount of time, knowledge and energy installing, configuring and modifying these systems. Hopefully this article will give you a little bit of insight into what you are paying for and why.</p>
+<h3>The Initial Setup</h3>
+<p>One of the things WordPress prides itself on is an easy setup and this pride is fully justified from this developer&#8217;s point of view. Getting WordPress installed, up and running is a breeze for any seasoned web monkey. However, for the average non-nerd setting up a copy on your own hosting space can get a bit more complicated:</p>
+<ul>
+<li> Do you have hosting server? (a place that your website will live on)</li>
+<li>Do you have a domain? (i.e. www.yourname.com)</li>
+<li>Do you know how to point the domain correctly to the server you are using?</li>
+<li>Does the server have PHP and mySQL installed? (these are required for WordPress)</li>
+<li>Do you know how to create an empty database for WordPress to use?</li>
+</ul>
+<p>Are these all things you can learn to do? Certainly! Most of it will involve a couple of days of reading and study, some careful note taking and probably some time on the line with tech support. If the questions above look like total gibberish to you, then you will probably need to spend a bit more time on it.</p>
+<p>For a developer, this will take about an hour tops to track down any missing info and run the initial setup. This does not mean the developer is smarter than you. This is simply the kind of thing we have done a hundred times. When you have done it a hundred times, it will be easy for you too.</p>
+<p>It should be noted that <a title="Wordpress.com" href="http://wordpress.com">WordPress.com</a> will also set up the software for free under <em>yourdomain.wordpress.com</em> which is a viable option for a quick cheap website. However, if you want to have the site available at <em>www.yourdomain.com</em> you will have to pay for a premium account (ditto if you need more space). The free or premium plan may seem like great options at first glance, but there are still a number of things to consider.</p>
+<div id="attachment_243" class="wp-caption alignright" style="width: 310px"><a href="http://12ftguru.com/wp-content/uploads/2010/05/Wordpress-default.png"><img class="size-medium wp-image-243" title="Wordpress default" src="http://12ftguru.com/wp-content/uploads/2010/05/Wordpress-default-300x276.png" alt="" width="300" height="276" /></a><p class="wp-caption-text">WordPress Default  Install</p></div>
+<p>The biggest one is that a default installation of WordPress looks like the image on the right. Is that really what you want your site to look like? It&#8217;s probably not, but WordPress has a number of wonderful ways to fix the look of your site and add cool now features as well.  Using themes and plug-ins, you can take WordPress from simple blog to a professional business site, store front, social networking site and much more.</p>
+<p>We will take a look at these options and the potential issues in the WordPress Modifications article next: <a title="You Get What You Pay For Part 2" href="http://12ftguru.com/2010/06/out-of-the-box-and-beyond/">Out of the Box and Beyond</a></p>
+<div id="hackadelic-sliderNote-8" class="concealed">Entries in this series:<ol><li>Free Software And You</li><li><a href="http://12ftguru.com/2010/06/out-of-the-box-and-beyond/">Out Of The Box And Beyond</a></li><li><a href="http://12ftguru.com/2010/06/an-unexpected-error-has-occurred-what-now/">An Unexpected Error Has Occurred... What now?</a></li><li><a href="http://12ftguru.com/2010/06/who-ya-gonna-call/">Who Ya Gonna Call?</a></li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/05/free-software-and-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Time is Money</title>
+		<link>http://12ftguru.com/2010/05/time-is-money/</link>
+		<comments>http://12ftguru.com/2010/05/time-is-money/#comments</comments>
+		<pubDate>Sun, 16 May 2010 15:44:42 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Getting Started]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=234</guid>
+		<description><![CDATA[This entry is part of a series: Getting Started With A Website&#187; What is the time frame for the website? Time is the next big consideration for your website. How soon does it need to be up and running and more importantly, what is pushing that deadline? Pushing for a quick arbitrary deadline is a ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-10')" title="click to expand/collapse slider Getting Started With A Website">Getting Started With A Website&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-10"></span></small></div><h3>What is the time frame for the website?</h3>
+<p><a href="http://12ftguru.com/wp-content/uploads/2010/04/robotTime.png"><img class="alignleft" title="robotTime" src="http://12ftguru.com/wp-content/uploads/2010/04/robotTime.png" alt="" width="174" height="231" /></a>Time is the next big consideration  for your website. How soon does it need to be up and running and more  importantly, what is pushing that deadline? Pushing for a quick  arbitrary deadline is a great way to get overcharged for a project.  Listen to feedback from the developer and ask questions. Consider what  parts of the site must be ready for it to go live and what can be added  in later. Unlike most major construction projects, websites are very  malleable things. New pieces can always be added later. As long as the  developer has been informed and can allow for these future changes, this  is rarely a problem. The costs and aggravations tend to creep in when  developers are in the dark as to future plans for the site. In this  respect a time line is always a good idea.</p>
+<p>Sketch out an initial time line with your site, including when you  will have your part done. Yes you have a part to play too; logos, site  content, design ideas, etc. Include any items that can be added after  the launch date. Take this initial time line and fill the rest of it in  with the developer to decide what is feasible and what is not. The final  launch date should grow organically out of the amount of work you need  done.</p>
+<p>That being said, emergencies happen and sometimes a deadline is set  in stone. In the case of emergencies such as this, a time line is even  more  critical. Make extra sure to not which items are critical, which  items would be nice if they happen and which are fine to save for later.  Make sure everyone understands the time line and signs off on it.  Schedule times to check in and try not to pester the developer too much  outside of those times. Interruptions are developer kryptonite and  usually result in lost productivity and software bugs.</p>
+<p>One final thing about emergency projects. If you have a quick,  concrete deadline, do not squawk at the price. You are asking a  developer to put other work on hold and be exclusive to you in your hour  of need. If the developer is working on your stuff for a solid month,  then expect to pay a months living wage at the very least and usually a  bit more. Asking someone else to starve for your dream is just tacky.</p>
+<h3>What is the budget for the website?</h3>
+<p><a href="http://12ftguru.com/wp-content/uploads/2010/04/robotMoney.png"><img class="alignright" title="robotMoney" src="http://12ftguru.com/wp-content/uploads/2010/04/robotMoney.png" alt="" width="174" height="231" /></a>You knew we would get around to  money eventually, right? Oddly, there is not a lot to say about a budget  for your website project, except to say that you really ought to have  one. Don&#8217;t hide it from the developer, Project budgeting is never the  most comfortable conversation for people to have. Nobody wants to  overpay for a web site and no developer wants to do free work. Estimate  and understand what you can afford for the project and be clear on this  budget with the developer.</p>
+<p>A good developer will offer you options to fit your budget or tell  you if the terms are unrealistic. If you can&#8217;t agree on a price, you can  always shop elsewhere. Sometimes you will find out that there is a  cheaper way to accomplish your goal and sometimes you will find that the  project is simply unfeasible at this time.  More often than not, what  you will find is that a developer has a way to work within your budget.  The trick is to come to the negotiation having already answered the  usual questions the developer is likely to have.</p>
+<h3>In closing</h3>
+<p><a href="http://12ftguru.com/wp-content/uploads/2010/04/robotCheck.png"><img class="alignleft" title="robotCheck" src="http://12ftguru.com/wp-content/uploads/2010/04/robotCheck.png" alt="" width="174" height="231" /></a>As a business owner I am continually  asked how someone can save money on a website. Some folks opt for the  do it yourself route. Some opt for the &#8220;I know somebody whose kid  brother knows how to make a website in Front Page&#8221; method. This is a  valid choice and I will cover some tips for taking this path in another  article, however it should be noted that time spent learning to make web  pages is time you don&#8217;t get to put into your business or idea. You also  lose out on the expertise of someone who does this kind of work and  enjoys it.</p>
+<p>Of all the projects I have worked on, the ones that saved money for  the client were also the ones where the client answered these kinds of  questions before the work ever started. Every developer has an  additional dollar amount that is added on to any part of the project  they don&#8217;t understand. This is not malicious, it is simply the only way  for a developer to keep reasonably sane and in business.</p>
+<p>The best way to help your project is to do your part. From Twelve  Foot Guru&#8217;s perspective, clients are not just the people who pay the  bills, they are the people whose efforts will largely shape the success  or failure of the project. The more questions you answer up front, the  better off you will be. Time  is money and your time will save you  money. It&#8217;s as simple as that.</p>
+<div id="hackadelic-sliderNote-10" class="concealed">Entries in this series:<ol><li><a href="http://12ftguru.com/2010/04/getting-started-with-a-website/">A Few Questions About Your Website</a></li><li><a href="http://12ftguru.com/2010/04/who-will-use-the-website-and-what-will-they-do/">Who will use the website and what will they do?</a></li><li><a href="http://12ftguru.com/2010/05/content-is-king/">Content is King</a></li><li>Time is Money</li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/05/time-is-money/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Content is King</title>
+		<link>http://12ftguru.com/2010/05/content-is-king/</link>
+		<comments>http://12ftguru.com/2010/05/content-is-king/#comments</comments>
+		<pubDate>Fri, 07 May 2010 15:10:05 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Getting Started]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=224</guid>
+		<description><![CDATA[This entry is part of a series: Getting Started With A Website&#187; What kinds of content will your website have? Start with the basics. Do you have a logo for the site? Do you have colors or a design in mind? Most companies charge extra for design work so it is a good idea to ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-12')" title="click to expand/collapse slider Getting Started With A Website">Getting Started With A Website&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-12"></span></small></div><h3>What kinds of content will your website have?</h3>
+<p><a href="http://12ftguru.com/wp-content/uploads/2010/04/robotContent.png"><img class="alignleft" title="robotContent" src="http://12ftguru.com/wp-content/uploads/2010/04/robotContent.png" alt="" width="174" height="231" /></a>Start with the basics. Do you have a  logo for the site? Do you have colors or a design in mind? Most  companies charge extra for design work so it is a good idea to keep this  in mind when you are budgeting for work. Even a simple napkin drawing  will greatly reduce the time needed to make your website come to life.  If you don&#8217;t have a design in mind, look at other sites and provide a  list of links to what you like and don&#8217;t like. If you are going to be  using a wordpress site, pick out a theme you like and tell the developer  specifically what should be modified to make it exactly what you want.  Again, napkin sketches are wonderful. Don&#8217;t feel that you have to be a  designer in order to get the point across. Just the basics will do.</p>
+<p>Next, you will need to figure out what goes where on the site.  Specifically, what pages are needed for the website? Again, make a list  of pages and what should be on them. You will also want to think about  how users will move around the site. Navigation is one of the biggest  considerations for any site. While there is a temptation to say  everything is important and it all goes on the front page, this way lies  madness. If your designer has experience in Information Architecture,  now is the time to lean on their experience. Use their knowledge to help  work through the flow of the site before any other work gets started.<a href="http://12ftguru.com/wp-content/uploads/2010/05/mockup.jpg"><img class="alignright size-medium wp-image-231" style="margin: 5px;" title="mockup" src="http://12ftguru.com/wp-content/uploads/2010/05/mockup-235x300.jpg" alt="" width="235" height="300" /></a></p>
+<p>Conversely, hiding information in ways that force your users to click  four times to get to what they need can be even worse. Group pages into  categories by subject or by what they do. It&#8217;s also not a bad idea to  ask your customers what they see as important and how they would try to  find it.</p>
+<p>Do you have the text that will appear on each page? Keep in mind that  most companies do not have an English Major on staff, and the ones that  do are unlikely to understand your business as well as you do. Writing  copy is also a skill unto itself. If it is something you cannot do, you  are much better off paying for someone to do it rather than letting the  average code monkey &#8220;take a swing at it.&#8221; The bottom line is that if you  feel passionate enough about something that you are investing time and  money in a website, then you are likely better at articulating your  vision then we are.</p>
+<p>One last consideration here is the type of content you want to  deliver; text, audio, video, file downloads of something completely  different. Each of these types of content has special considerations for  the developer and should be noted up front before any work begins. You can use this simple <a href="http://12ftguru.com/wp-content/uploads/2010/05/Content-Checklist.pdf">Content Checklist</a> (PDF) or write up your own description.</p>
+<p><strong>Next: <a href="http://12ftguru.com/2010/05/time-is-money/">Time is Money</a></strong></p>
+<div id="hackadelic-sliderNote-12" class="concealed">Entries in this series:<ol><li><a href="http://12ftguru.com/2010/04/getting-started-with-a-website/">A Few Questions About Your Website</a></li><li><a href="http://12ftguru.com/2010/04/who-will-use-the-website-and-what-will-they-do/">Who will use the website and what will they do?</a></li><li>Content is King</li><li><a href="http://12ftguru.com/2010/05/time-is-money/">Time is Money</a></li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/05/content-is-king/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Who will use the website and what will they do?</title>
+		<link>http://12ftguru.com/2010/04/who-will-use-the-website-and-what-will-they-do/</link>
+		<comments>http://12ftguru.com/2010/04/who-will-use-the-website-and-what-will-they-do/#comments</comments>
+		<pubDate>Fri, 30 Apr 2010 10:00:22 +0000</pubDate>
+		<dc:creator>john</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Getting Started]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=215</guid>
+		<description><![CDATA[This entry is part of a series: Getting Started With A Website&#187; Who will use the website and what will they do? The easiest place to start is determining who will use the website. It is also the main foundation that will drive every other decision you make on the site. This is really where ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-14')" title="click to expand/collapse slider Getting Started With A Website">Getting Started With A Website&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-14"></span></small></div><h3>Who will use the website and what will they do?</h3>
+<p><a href="http://12ftguru.com/wp-content/uploads/2010/04/robotUsers.png"><img class="alignleft" title="robotUsers" src="http://12ftguru.com/wp-content/uploads/2010/04/robotUsers.png" alt="" width="174" height="231" /></a>The easiest place to start is  determining who will use the website. It is also the main foundation  that will drive every other decision you make on the site. This is  really where the bulk of your planning time should be spent. Every hour  you spent here can save your coder days of work and save you lots of  money and aggravation.</p>
+<p>The first step is fairly simple. Make a list of the basic types of  users. Will it simply be your customers viewing the site? Will you be  adding and editing things on the site? Will more than one person make  changes to the site? Are all the pages visible to every user, or can  some users only see certain pages?</p>
+<p>A simple brochure site will likely serve as a communication point  between you and your target audience.  You have something you wish to  sell or tell, and you have readers or customers who want what you have.  For a site like this, there will likely only be a few types of users;  people who create content and people who read it. A more complex site  may have a number of different people who add new content, or different  types of people who use the content. For example, some might be free  users, who see only some of the content, while paid users see all the  content and can upload new files.</p>
+<p>Think about each type of user who will visit the site and list them  out by type. We have provided a helpful worksheet and example to give you a place to start. Download the <a href="http://12ftguru.com/wp-content/uploads/2010/04/User-Type-Worksheet.pdf">User Type Worksheet</a> now and take a look.</p>
+<p>Once you have this completed, it&#8217;s time to decide what each user is  going to do with the site. Can they upload files, can they edit pages?  Can they delete things? Can they invite other users? Additionally, it&#8217;s  important to consider what each user will see on the site. Will they see  everything, or just a small piece? It is best to get as detailed as  possible with this section. If possible, break it out into different  tasks; The user wants to do that particular task and here are the steps  they take to do it.</p>
+<p>This kind of information is worth it&#8217;s weight in gold, specifically,  your gold. It clarifies the process flow for the developer and keeps  them from making assumptions which cost you time and money. Remember,  lack of information leads to assumptions, assumptions lead to mistakes,  mistakes lead to suffering and suffering leads to the dark side.</p>
+<p><strong>Next:<a title="Next Week..." href="http://12ftguru.com/2010/05/content-is-king/"> Content is King</a></strong></p>
+<div id="hackadelic-sliderNote-14" class="concealed">Entries in this series:<ol><li><a href="http://12ftguru.com/2010/04/getting-started-with-a-website/">A Few Questions About Your Website</a></li><li>Who will use the website and what will they do?</li><li><a href="http://12ftguru.com/2010/05/content-is-king/">Content is King</a></li><li><a href="http://12ftguru.com/2010/05/time-is-money/">Time is Money</a></li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/04/who-will-use-the-website-and-what-will-they-do/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is a CMS, really?</title>
+		<link>http://12ftguru.com/2010/04/what-is-a-cms-really/</link>
+		<comments>http://12ftguru.com/2010/04/what-is-a-cms-really/#comments</comments>
+		<pubDate>Mon, 26 Apr 2010 08:58:22 +0000</pubDate>
+		<dc:creator>BrYan</dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://12ftguru.com/?p=166</guid>
+		<description><![CDATA[This entry is part of a series: A CMS by any other name...&#187; We all know by now that CMS stands for Content Management System and that these things are used to manage websites, but really, what are they and what do they do for me? One of the most important things that a CMS ..... ]]></description>
+			<content:encoded><![CDATA[<div class="hackadelic-series-info on-frontpage"><small>This entry is part of a series: <a href="javascript:;" class="hackadelic-sliderButton"onclick="toggleSlider('#hackadelic-sliderPanel-16')" title="click to expand/collapse slider A CMS by any other name...">A CMS by any other name...&raquo;</a> <span class="hackadelic-sliderPanel concealed" id="hackadelic-sliderPanel-16"></span></small></div><div id="attachment_173" class="wp-caption alignright" style="width: 310px"><a href="http://12ftguru.com/wp-content/uploads/2011/04/alackofcaring.png"><img class="size-medium wp-image-173" title="A Lack of Caring" src="http://12ftguru.com/wp-content/uploads/2011/04/alackofcaring-300x282.png" alt="" width="300" height="282" /></a><p class="wp-caption-text">A CMS lets you stop caring about every element on a web page.</p></div>
+<p>We all know by now that CMS stands for Content Management System and that these things are used to manage websites, but really, what are they and what do they do for me?</p>
+<p>One of the most important things that a CMS does is let you stop caring about all of the elements on every web page. Every page on your site needs to have your logo, titles, footers, sidebars and ads, but you don&#8217;t want to have to add those things by hand to each page. When you&#8217;ve got a new product or press release or whatever, you really just want to enter that particular information and let the rest of the stuff be handled for you. Or put another way, on any given web page there are things you just don&#8217;t care about.</p>
+<p>There are also lots of tedious tasks that are still necessary to keep your website functional and professional looking: maintaining navigational menus, updating table of contents pages and keeping your sitemaps up to date for search engines, just to name a few. These are all things your CMS should be doing for you, automatically.</p>
+<p>Additionally, you&#8217;ll probably end up with lots of images, sound files and movies and such that you use over and over again. A good CMS will sort and store these assets and make them available to you when you&#8217;re setting up a new page on your site. Say that you add a new image of your product: the CMS should be able to update that image wherever it appears on the site, without your having to hunt down each occurrence of the old image yourself.</p>
+<p>Sure, most CMSs can do much, much more: adding in an approval/editorial process, tracking site usage statistics, managing site members, communicating of feedback or even making your bed for you in the morning, but that&#8217;s all icing on the cake. When it comes down to brass tacks, your CMS is there to make updating your web site as painless as possible. If all of that other stuff is getting in your way, then it really needs to just go. That goes doubly so for your CMS itself. If your CMS is making you do more work than you need to, maybe it&#8217;s time to look at a new CMS.</p>
+<h4>Coming up next: What kind of CMS is best for me?</h4>
+<div id="hackadelic-sliderNote-16" class="concealed">Entries in this series:<ol><li>What is a CMS, really?</li></ol><span style="display: block; margin-top: 3px; font-size: 7px"><a href="http://hackadelic.com/solutions/wordpress/sliding-notes" title="Powered by Hackadelic Sliding Notes 1.6.5">Powered by Hackadelic Sliding Notes 1.6.5</a></span></div>]]></content:encoded>
+			<wfw:commentRss>http://12ftguru.com/2010/04/what-is-a-cms-really/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
