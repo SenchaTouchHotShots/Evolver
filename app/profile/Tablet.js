@@ -6,8 +6,8 @@ Ext.define('Evolver.profile.Tablet', {
         views: ['Main', 'PostList', 'PageList', 'PageDetails', 'PostDetails']
     },
     isActive: function() {
-        return true;
-       // return Ext.os.is.Tablet;
+       // return true;
+        return Ext.os.is.Tablet;
     },
     launch: function() {
         console.log('tablet');

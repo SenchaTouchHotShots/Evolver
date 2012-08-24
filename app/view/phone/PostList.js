@@ -1,6 +1,7 @@
 Ext.define('Evolver.view.phone.PostList', {
     extend: 'Ext.dataview.List',
     alias: 'widget.phonepostlist',
+    title: 'Posts',
     config: {
         store: 'postStore',
         itemTpl: [

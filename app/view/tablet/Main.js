@@ -5,7 +5,7 @@ Ext.define('Evolver.view.tablet.Main', {
         items: [
             {
                 xtype: 'tabpanel',
-                width: 160,
+                width: 200,
                 docked: 'left',
                 items: [
                     {
@@ -20,8 +20,26 @@ Ext.define('Evolver.view.tablet.Main', {
             },
             {
                 xtype: 'container',
-                html: '<img src="http://12ftguru.com/wp-content/themes/small-business/images/sb_logo.png"'
+                layout: 'vbox',
+                items: [
+                    {
+                        xtype: 'container',
+                        layout: 'fit',
+                        id: 'banner',
+                        height: 140,
+                        html: '<img src="http://12ftguru.com/wp-content/themes/small-business/images/sb_logo.png">'
+                    },
+                    {
+                        xtype: 'container',
+                        layout: 'fit',
+                        id: 'contentArea',
+                        padding: 10,
+                        html: 'This is where the content goes'
+                    }
+                ]
             }
+
+
         ]
     }
 

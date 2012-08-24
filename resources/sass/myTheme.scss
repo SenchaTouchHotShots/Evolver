@@ -1,0 +1,26 @@
+$base_color: #B3B3B3;
+
+
+@import 'sencha-touch/default/all';
+@include sencha-toolbar-ui('subnav', #B3B3B3, 'matte');
+@include sencha-tabbar-ui('sitetabs', #CCCCCC, 'matte', #B3B3B3);
+
+@include sencha-button-ui('secondary', #000000, 'glossy');
+@include pictos-iconmask('quote_black2');
+
+@include sencha-panel;
+@include sencha-buttons;
+@include sencha-sheet;
+@include sencha-picker;
+@include sencha-tabs;
+@include sencha-toolbar;
+@include sencha-toolbar-forms;
+@include sencha-carousel;
+@include sencha-indexbar;
+@include sencha-list;
+@include sencha-list-paging;
+@include sencha-list-pullrefresh;
+@include sencha-layout;
+@include sencha-form;
+@include sencha-msgbox;
+@include sencha-loading-spinner;

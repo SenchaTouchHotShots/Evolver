@@ -1,7 +1,6 @@
 Ext.define('Evolver.view.phone.Main', {
     extend: 'Ext.tab.Panel',
     alias: 'widget.phonemain',
-    title: 'WTF?',
     config: {
         tabBar: {
             docked: 'bottom',
@@ -11,7 +10,8 @@ Ext.define('Evolver.view.phone.Main', {
             {
                 xtype: 'navigationview',
                 title: 'Posts',
-                iconCls: 'info',
+                iconCls: 'quote_black2',
+                iconMask: true,
                 items: [
                   {xtype: 'phonepostlist'}
                 ]
@@ -20,6 +20,7 @@ Ext.define('Evolver.view.phone.Main', {
                 xtype: 'navigationview',
                 title: 'Pages',
                 iconCls: 'info',
+                iconMask: true,
                 items: [
                   {xtype: 'phonepagelist'}
                 ]
