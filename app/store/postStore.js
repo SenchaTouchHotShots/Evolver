@@ -1,12 +1,11 @@
 Ext.define('Evolver.store.postStore', {
     extend: 'Ext.data.Store',
-
     requires: [
         'Evolver.model.Post'
     ],
-    storeId: 'postStore',
-    autoLoad: true,
     config: {
+        storeId: 'postStore',
+        autoLoad: true,
         model: 'Evolver.model.Post',
         storeId: 'postStore',
         proxy: {

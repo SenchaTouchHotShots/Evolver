@@ -1,7 +1,7 @@
 Ext.define('Evolver.model.Post', {
     extend: 'Ext.data.Model',
-    idProperty: 'guid',
     config: {
+    idProperty: 'guid',
         fields: [
             {
                 name: 'guid',

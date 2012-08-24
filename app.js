@@ -8,7 +8,7 @@ Ext.application({
     name: 'Evolver',
 
     requires: [
-        'Ext.MessageBox'
+        'Ext.MessageBox', 'Ext.data.reader.Xml'
     ],
 
     models: ['Page', 'Post'],
@@ -20,7 +20,7 @@ Ext.application({
         114: 'resources/icons/Icon@2x.png',
         144: 'resources/icons/Icon~ipad@2x.png'
     },
-    
+
     phoneStartupScreen: 'resources/loading/Homescreen.jpg',
     tabletStartupScreen: 'resources/loading/Homescreen~ipad.jpg',
 
