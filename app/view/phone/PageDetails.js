@@ -1,4 +1,4 @@
-Ext.define('Evolver.view.phonePageDetails', {
+Ext.define('Evolver.view.phone.PageDetails', {
     extend: 'Ext.Panel',
     alias: 'widget.phonepagedetails',
     config: {

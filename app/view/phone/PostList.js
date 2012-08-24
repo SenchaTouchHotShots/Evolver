@@ -1,4 +1,4 @@
-Ext.define('Evolver.view.phonePostList', {
+Ext.define('Evolver.view.phone.PostList', {
     extend: 'Ext.dataview.List',
     alias: 'widget.phonepostlist',
     config: {

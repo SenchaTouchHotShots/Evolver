@@ -15,7 +15,7 @@
 
 Ext.define('Evolver.view.tablet.PostList', {
     extend: 'Ext.dataview.List',
-    alias: 'widget.tabletppostlist',
+    alias: 'widget.tabletpostlist',
     config: {
         itemTpl: [
             '<div class="postItem">',
