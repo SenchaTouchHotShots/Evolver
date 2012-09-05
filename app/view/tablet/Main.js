@@ -9,11 +9,11 @@ Ext.define('Evolver.view.tablet.Main', {
                 docked: 'left',
                 items: [
                     {
-                        xtype: 'tabletpagelist',
+                        xtype: 'pagelist',
                         title: 'Pages'
                     },
                     {
-                        xtype: 'tabletpostlist',
+                        xtype: 'postlist',
                         title: 'Posts'
                     }
                 ]

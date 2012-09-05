@@ -3,10 +3,10 @@ Ext.define('Evolver.profile.Phone', {
     config: {
         name: 'Phone',
         controllers: ['Main'],
-        views: ['Main', 'PostList', 'PageList', 'PageDetails', 'PostDetails']
+        views: ['Main', 'Evolver.view.PostList', 'Evolver.view.PageList', 'PageDetails', 'PostDetails']
     },
     isActive: function() {
-         return false;
+         return true;
        //  return Ext.os.is.Phone;
     },
     launch: function() {

@@ -5,8 +5,10 @@ $base_color: #B3B3B3;
 @include sencha-toolbar-ui('subnav', #B3B3B3, 'matte');
 @include sencha-tabbar-ui('sitetabs', #CCCCCC, 'matte', #B3B3B3);
 
-@include sencha-button-ui('secondary', #000000, 'glossy');
+@include sencha-button-ui('secondary', #618BD3, 'glossy');
 @include pictos-iconmask('quote_black2');
+
+
 
 @include sencha-panel;
 @include sencha-buttons;
@@ -24,3 +26,59 @@ $base_color: #B3B3B3;
 @include sencha-form;
 @include sencha-msgbox;
 @include sencha-loading-spinner;
+
+.x-tabbar-dark.x-docked-bottom .x-tab-active .x-button-icon {
+  @include background-gradient(#618BD3);
+}
+.postMeta {
+  font-size: 12px;
+  font-style: italic;
+}
+.postTitle {
+  margin-bottom: 5px;
+  color: #5e73ae;
+  text-shadow: 0.1em 0.1em #dddddd;
+}
+.postItem {
+  margin: 5px;
+  padding: 10px;
+  @include background-gradient(#CCCCCC);
+  border-radius: 10px;
+}
+
+.postDetails {
+  margin: 5px;
+  padding: 10px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+}
+
+p {
+  font-size:.9em;
+  line-height: 1.3em
+}
+em {
+  font-style: italic;
+  font-size: .8em;
+}
+.hackadelic-series-info {
+  display: none;
+}
+.concealed {
+  display: none;
+}
+
+h3 {
+  margin-bottom: 8px;
+}
+
+ol {
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+li {
+  font-size:.9em;
+  line-height: 1.3em;
+  margin-bottom: 10px;
+}

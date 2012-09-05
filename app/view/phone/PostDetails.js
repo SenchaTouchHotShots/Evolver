@@ -2,10 +2,12 @@ Ext.define('Evolver.view.phone.PostDetails', {
     extend: 'Ext.Panel',
     alias: 'widget.phonepostdetails',
     config: {
+        layout: 'fit',
+        scrollable: {direction: 'vertical', directionLock: true},
         tpl: [
             '<div class="postDetails">',
             '    <div class="postTitle">{title}</div>',
-            '    <div class="postMeta"><span class="postAuthor">{author}</span> <span class="postDate">{date}</span> <span class="postCategory">{category}</span></div>',
+            '    <div class="postMeta"><span class="postAuthor">Written by {author}</span> <span class="postDate">on {[Ext.util.Format.date(values.pubDate, "m/d/Y")]}</span> <span class="postCategory"> for {category}</span></div>',
             '    <div class="postContent">{content}</div>',
             '</div>'
         ]

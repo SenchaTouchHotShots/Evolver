@@ -3,10 +3,10 @@ Ext.define('Evolver.profile.Tablet', {
     config: {
         name: 'Tablet',
         controllers: ['Main'],
-        views: ['Main', 'PostList', 'PageList', 'PageDetails', 'PostDetails']
+        views: ['Main', 'Evolver.view.PostList', 'Evolver.view.PageList', 'PageDetails', 'PostDetails']
     },
     isActive: function() {
-        return true;
+        return false;
        // return Ext.os.is.Tablet;
     },
     launch: function() {
