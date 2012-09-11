@@ -12,5 +12,4 @@ Ext.define('Evolver.view.PostList', {
             '</div>'
         ]
     }
-
 });

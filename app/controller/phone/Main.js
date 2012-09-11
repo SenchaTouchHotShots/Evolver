@@ -10,22 +10,31 @@ Ext.define('Evolver.controller.phone.Main', {
         control: {
             postList: {
                 itemtap: 'onListItemTap'
+            },
+            pageList: {
+                itemtap: 'onListItemTap'
             }
         }
     },
     onListItemTap: function(dataview, index, target, record, e, options) {
-        console.log(record);
         var original = record.get('content');
-        console.log(original);
         var converted = original.replace(/src=\"/g, 'src=\"http://src.sencha.io/120/');
-        console.log(converted);
         var final = converted.replace(/((width|height)\s*=\s*"*\d+"*)/g, '');
         record.set('content', final);
-        var details = Ext.create(
-            'Evolver.view.phone.PostDetails', {
-                title: record.get('title'),
-                data: record.data
-            });
+        if(dataview.id == 'postList') {
+            var details = Ext.create(
+                'Evolver.view.phone.PostDetails', {
+                    title: record.get('title'),
+                    data: record.data
+                });
+        } else {
+            var details = Ext.create(
+                'Evolver.view.phone.PageDetails', {
+                    title: record.get('title'),
+                    data: record.data
+                });
+        }
+
         this.getMainView().getActiveItem().push(details);
     }
 });

@@ -7,11 +7,14 @@ Ext.define('Evolver.store.pageStore', {
 
     config: {
         model: 'Evolver.model.Page',
+        autoLoad: true,
         storeId: 'pageStore',
         proxy: {
             type: 'jsonp',
+            url: 'http://12ftguru.com/api/get_page_index/',
             reader: {
-                type: 'json'
+                type: 'json',
+                rootProperty: 'pages'
             }
         }
     }

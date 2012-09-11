@@ -7,7 +7,6 @@ Ext.define('Evolver.store.postStore', {
         storeId: 'postStore',
         autoLoad: true,
         model: 'Evolver.model.Post',
-        storeId: 'postStore',
         proxy: {
             type: 'ajax',
             url: 'posts.rss',

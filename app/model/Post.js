@@ -32,7 +32,8 @@ Ext.define('Evolver.model.Post', {
                 type: 'string'
             },
             {
-                name: 'link',
+                name: 'url',
+                mapping: 'link',
                 type: 'string'
             }
         ]

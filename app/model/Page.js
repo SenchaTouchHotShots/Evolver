@@ -16,13 +16,13 @@ Ext.define('Evolver.model.Page', {
                 type: 'string'
             },
             {
-                name: 'image',
-                type: 'string'
+                dateFormat: 'Y-m-d H:i:s',
+                name: 'modified',
+                type: 'date'
             },
             {
-                dateFormat: 'm/d/Y',
-                name: 'updated',
-                type: 'date'
+                name: 'url',
+                type: 'string'
             }
         ]
     }

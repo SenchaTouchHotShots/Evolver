@@ -6,7 +6,7 @@ Ext.define('Evolver.profile.Phone', {
         views: ['Main', 'Evolver.view.PostList', 'Evolver.view.PageList', 'PageDetails', 'PostDetails']
     },
     isActive: function() {
-         return true;
+         return false;
        //  return Ext.os.is.Phone;
     },
     launch: function() {

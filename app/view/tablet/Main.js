@@ -1,5 +1,6 @@
 Ext.define('Evolver.view.tablet.Main', {
     extend: 'Ext.Panel',
+    id: 'mainView',
     config: {
         layout: 'fit',
         items: [
@@ -21,6 +22,7 @@ Ext.define('Evolver.view.tablet.Main', {
             {
                 xtype: 'container',
                 layout: 'vbox',
+                scrollable: true,
                 items: [
                     {
                         xtype: 'container',
@@ -30,11 +32,11 @@ Ext.define('Evolver.view.tablet.Main', {
                         html: '<img src="http://12ftguru.com/wp-content/themes/small-business/images/sb_logo.png">'
                     },
                     {
-                        xtype: 'container',
-                        layout: 'fit',
-                        id: 'contentArea',
-                        padding: 10,
-                        html: 'This is where the content goes'
+                        xtype: 'pagedetails'
+                    },
+                    {
+                        xtype: 'postdetails',
+                        hidden: true
                     }
                 ]
             }

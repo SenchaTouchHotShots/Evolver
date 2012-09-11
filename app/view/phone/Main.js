@@ -13,7 +13,7 @@ Ext.define('Evolver.view.phone.Main', {
                 iconMask: true,
                 title: 'Posts',
                 items: [
-                  {xtype: 'postlist', title: 'Posts'}
+                  {xtype: 'postlist', title: 'Posts List'}
                 ]
             },
             {
@@ -21,9 +21,8 @@ Ext.define('Evolver.view.phone.Main', {
                 title: 'Pages',
                 iconCls: 'info',
                 iconMask: true,
-                scrollable: {direction: 'vertical', directionLock: true},
                 items: [
-                  {xtype: 'pagelist', title: 'Pages'}
+                  {xtype: 'pagelist', title: 'Pages List'}
                 ]
             }
         ]

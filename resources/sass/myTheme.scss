@@ -33,9 +33,17 @@ $base_color: #B3B3B3;
 .postMeta {
   font-size: 12px;
   font-style: italic;
+  line-height: 14px;
+}
+
+.wp-caption p.wp-caption-text {
+  font-size: .8em !important;
+  font-style: italic;
+  line-height: 12px;
+  font-weight: normal;
+  text-transform: none;
 }
 .postTitle {
-  margin-bottom: 5px;
   color: #5e73ae;
   text-shadow: 0.1em 0.1em #dddddd;
 }
@@ -53,9 +61,34 @@ $base_color: #B3B3B3;
   border-radius: 10px;
 }
 
+.pageMeta {
+  font-size: 12px;
+  font-style: italic;
+  line-height: 14px;
+}
+
+.pageTitle {
+  color: #5e73ae;
+  text-shadow: 0.1em 0.1em #dddddd;
+}
+.pageItem {
+  margin: 5px;
+  padding: 10px;
+  @include background-gradient(#CCCCCC);
+  border-radius: 10px;
+}
+
+.pageDetails {
+  margin: 5px;
+  padding: 10px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+}
+
 p {
   font-size:.9em;
-  line-height: 1.3em
+  line-height: 1.3em;
+  margin-bottom: 10px;
 }
 em {
   font-style: italic;
