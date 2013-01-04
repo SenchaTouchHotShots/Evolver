@@ -6,8 +6,7 @@ Ext.define('Evolver.profile.Phone', {
         views: ['Main', 'Evolver.view.PostList', 'Evolver.view.PageList', 'PageDetails', 'PostDetails']
     },
     isActive: function() {
-         return false;
-       //  return Ext.os.is.Phone;
+         return Ext.os.is.Phone;
     },
     launch: function() {
         // Destroy the #appLoadingIndicator element
